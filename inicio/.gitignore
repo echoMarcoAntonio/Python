@@ -1,6 +1,0 @@
-# Ignorar ambientes virtuais
-.venv/
-venv/
-
-# Ignorar arquivos do PyCharm
-.idea/
