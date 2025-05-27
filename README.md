@@ -12,6 +12,7 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `1-tiposDados.py`: tipos primitivos (int, float, str, bool)
   - `2-input.py`: leitura de entrada do usuário
   - `3-concatena.py`: concatenação de strings e uso de `print()`
+  - `4-operadores.py`: uso de operadores aritméticos, de comparação e atribuição
   - `test.ipynb`: caderno Jupyter de testes diversos
 
 ## ▶️ Como Executar o Projeto
