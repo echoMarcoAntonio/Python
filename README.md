@@ -1,20 +1,35 @@
-# pythondev
+# 📘 pythondev
 
-Repositório com exercícios de Python.
+Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
 
-## Estrutura
+## 📂 Estrutura do Projeto
 
-- `fundamentos/`: primeiros scripts com tipos de dados, entrada e concatenação.
-- `inicio/`: exemplos simples em `.py` e `.ipynb`.
+- `inicio/`: exemplos básicos:
+  - `exemplo.py`: código Python simples
+  - `exemplo2.ipynb`: notebook de introdução
 
-## Como rodar
+- `fundamentos/`: scripts introdutórios com:
+  - `1-tiposDados.py`: tipos primitivos (int, float, str, bool)
+  - `2-input.py`: leitura de entrada do usuário
+  - `3-concatena.py`: concatenação de strings e uso de `print()`
+  - `test.ipynb`: caderno Jupyter de testes diversos
 
-1. Crie um ambiente virtual:
+## ▶️ Como Executar o Projeto
+
+### 1. Clone o repositório (caso já não o tenha feito)
+
+```
+git clone https://github.com/echoMarcoAntonio/pythondev.git
+cd pythondev
+```
+
+### 2. Crie um ambiente virtual:
+
   ```
 python -m venv .venv
   ```
 
-2. Ative o ambiente:
+### 3. Ative o ambiente virtual:
 
 - Windows:
   ```
@@ -25,7 +40,8 @@ python -m venv .venv
   source .venv/bin/activate
   ```
 
-3. Instale as dependências:
+### 4. Instale as dependências:
+
   ```
 pip install -r requirements.txt
   ```
