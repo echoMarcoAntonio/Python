@@ -13,6 +13,9 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `2-input.py`: leitura de entrada do usuário
   - `3-concatena.py`: concatenação de strings e uso de `print()`
   - `4-operadores.py`: uso de operadores aritméticos, de comparação e atribuição
+  - `5-strings.py`: manipulação básica de strings (`upper`, `lower`, `title`, etc.)
+  - `6-slice.py`: slicing de strings, incremento, inversão, e `in`
+  - `7-metodos_string.py`: métodos de string aplicados em textos e descrições (`replace`, `split`, `find`, `center`, etc.)
   - `test.ipynb`: caderno Jupyter de testes diversos
 
 ## ▶️ Como Executar o Projeto
