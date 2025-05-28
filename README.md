@@ -16,7 +16,10 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `5-strings.py`: manipulação básica de strings (`upper`, `lower`, `title`, etc.)
   - `6-slice.py`: slicing de strings, incremento, inversão, e `in`
   - `7-metodos_string.py`: métodos de string aplicados em textos e descrições (`replace`, `split`, `find`, `center`, etc.)
-  - `test.ipynb`: caderno Jupyter de testes diversos
+  - `8-lista.py`: Adiciona script com listas de filmes e operações de fatiamento
+  - `9-metodos_lista.py`: Implementa operações com listas de nomes de filmes: contagem, busca, adição, ordenação, cópia e limpeza
+  - `test.ipynb`: caderno Jupyter de testes diverso
+  - `exerc1.py`: script de três exercícios, sendo estes: formatação de nomes, inversão de palavras e verificação de palíndromos
 
 ## ▶️ Como Executar o Projeto
 
