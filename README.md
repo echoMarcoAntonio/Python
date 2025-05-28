@@ -19,6 +19,7 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `8-lista.py`: Adiciona script com listas de filmes e operações de fatiamento
   - `9-metodos_lista.py`: Implementa operações com listas de nomes de filmes: contagem, busca, adição, ordenação, cópia e limpeza
   - `10-tupla.py`: Implementa script com tuplas de filmes e operações de fatiamento
+  - `11-set.py`Adiciona manipulação básica de sets, demonstrando adição, remoção e comportamento de valores duplicados.
   - `test.ipynb`: caderno Jupyter de testes diverso
   - `exerc1.py`: script de três exercícios, sendo estes: formatação de nomes, inversão de palavras e verificação de palíndromos
 
