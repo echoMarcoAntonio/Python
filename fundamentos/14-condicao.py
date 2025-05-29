@@ -29,4 +29,4 @@ else:
 
 # Exibir o resultado, caso tenha sido calculado corretamente
 if result is not None:
-    print(f"O resultado é: {result}")
+    print(f"O resultado é: {result:.2f}")
