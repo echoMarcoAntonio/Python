@@ -21,6 +21,7 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `10-tupla.py`: Implementa script com tuplas de filmes e operações de fatiamento
   - `11-set.py`Adiciona manipulação básica de sets, demonstrando adição, remoção e comportamento de valores duplicados
   - `12-dicionario.py` Demonstra operações básicas com dicionário: acesso, adição, atualização e remoção de itens
+  - `13-dicionario_aninhado.py` Demonstrar manipulação de dicionário aninhado com filmes, incluindo acesso, adição, remoção e exibição formatada com pprint.
   - `test.ipynb`: caderno Jupyter de testes diverso
   - `exerc1.py`: script de três exercícios, sendo estes: formatação de nomes, inversão de palavras e verificação de palíndromos
 
