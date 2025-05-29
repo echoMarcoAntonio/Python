@@ -9,8 +9,8 @@ filmInception = {
 
 """
 print(filmInception)
-print(len(filmInception))
-print(type(filmInception))
+print(len(filmInception)) # Imprime a largura do dicionário
+print(type(filmInception)) # Imprime o tipo do dicionário
 """
 
 # 1 - Recuperar elementos pelo nome da chave
