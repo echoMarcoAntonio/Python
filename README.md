@@ -24,6 +24,7 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `13-dicionario_aninhado.py` Demonstrar manipulação de dicionário aninhado com filmes, incluindo acesso, adição, remoção e exibição formatada com pprint.
   - `14-condicao.py` Adicionar script de calculadora com uso de if/elif para operações básicas e validação de divisão por zero
   - `15-for.py` Implementar exemplos de laço for, controle de fluxo (break, continue) e cálculo de média com entrada do usuário
+  - `16-while.py` Exercícios com estrutura de repetição while, uso de índice, controle de fluxo com break e continue,  e entrada de dados para cálculo de média.
   - `test.ipynb`: caderno Jupyter de testes diverso
   - `exerc1.py`: script de três exercícios, sendo estes: formatação de nomes, inversão de palavras e verificação de palíndromos
 
